@@ -1,0 +1,1 @@
+# [GPMX Easy Mega Mashup](https://codeforces.com/group/wWT2dSCYXd/contest/674072)
