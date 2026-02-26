@@ -78,7 +78,7 @@ Cuando la solución esté lista y verificada:
 ### 1. Cambiar a la rama principal
 
 ```bash
-git switch main
+git checkout main
 ```
 
 ### 2. Actualizar `main`
@@ -112,7 +112,7 @@ git branch
 ### Cambiar de rama
 
 ```bash
-git switch nombre-de-la-rama
+git checkout nombre-de-la-rama
 ```
 
 ### Crear una nueva rama
