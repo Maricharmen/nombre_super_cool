@@ -4,7 +4,6 @@ Este repositorio contiene implementaciones de soluciones a problemas de programa
 
 ## 👩🏻‍💻 Autoras
 
-|---------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
 | [Andy](https://codeforces.com/profile/andybaezaa) | [Dani](https://codeforces.com/profile/microdaanii) | [Mari](https://codeforces.com/profile/Maricharmen) |
 |---------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
 
