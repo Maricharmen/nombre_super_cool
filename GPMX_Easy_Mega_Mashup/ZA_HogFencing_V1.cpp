@@ -4,14 +4,13 @@ using namespace std;
 using ll = long long;
 
 void solve() {
-   
+   int n; cin>>n;
+   cout << (n/4)*((n - (n/4)*2)/2)<<"\n";
 }
 
 int main() {
     ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-    //ll t; cin>>t;
-    
-    //while(t--)
+
     solve();
     
     return 0;
