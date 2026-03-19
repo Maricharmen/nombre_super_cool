@@ -1,1 +1,19 @@
+# Ejecutables
+*.exe
+*.out
+
+# Objetos
+*.o
+*.obj
+
+# Librerías
+*.dll
+*.so
+*.a
+
+# Carpetas de compilación
+build/
+bin/
+
+# VS Code
 .vscode/
