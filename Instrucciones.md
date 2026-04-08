@@ -27,7 +27,7 @@ cp ruta/origen/archivo.cpp ruta_destino/nuevo_nombre.cpp
 ### 🔹 Ejemplo:
 
 ```bash
-cp nombre_super_cool/plantilla.cpp GPMX_Easy_Mega_Mashup/ZA_HogFencing.cpp
+cp ../plantilla.cpp GPMX_Easy_Mega_Mashup/ZA_HogFencing.cpp
 ```
 
 ---
